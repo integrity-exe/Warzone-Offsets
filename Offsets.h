@@ -2,6 +2,7 @@ namespace offsets {
         constexpr auto ref_def_ptr = 0x18070A08;
         constexpr auto name_array = 0x1807C248;
         constexpr auto name_array_list = 0x4C70;
+        constexpr auto name_array_padding = 0x4C70;
         constexpr auto camera_base = 0x157F5CD0;
         constexpr auto camera_pos = 0x1D8;
         constexpr auto local_index = 0x34D20;
