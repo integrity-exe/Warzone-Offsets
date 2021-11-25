@@ -8,7 +8,7 @@ namespace offsets {
         constexpr auto local_index = 0x34D20;
         constexpr auto local_index_pos = 0x1FC;
         constexpr auto recoil = 0x11A8C;
-        constexpr auto game_mode = 0x17C8A17C;
+        constexpr auto game_mode = 0x17C8A178;;
         constexpr auto weapon_definitions = 0x158CBB90;
         constexpr auto distribute = 0x1A722978;
         constexpr auto visible_offset = 0xA83;
